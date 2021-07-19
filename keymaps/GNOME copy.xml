@@ -1,0 +1,25 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="alt comma" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift ctrl alt a" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="ShowReformatFileDialog" />
+  <action id="StretchSplitToLeft">
+    <keyboard-shortcut first-keystroke="shift ctrl alt l" />
+  </action>
+  <action id="Vcs.ToggleAmendCommitMode" />
+</keymap>
