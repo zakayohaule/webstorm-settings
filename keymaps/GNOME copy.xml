@@ -17,6 +17,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="CodeCleanup">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
