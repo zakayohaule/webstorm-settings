@@ -1,0 +1,8 @@
+<templateSet group="custom">
+  <template name="conlog" value="console.log($OUTPUT$)" description="Console log stuff" toReformat="false" toShortenFQNames="true">
+    <variable name="OUTPUT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
